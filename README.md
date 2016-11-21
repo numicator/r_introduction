@@ -112,7 +112,7 @@ the opportunity to use the skills we learned today.
  - Layers,
  - Scales
  - Facets (multi panels)
- - qplot() vs. ggplot() functions
+ - _qplot()_ vs. _ggplot()_ functions
 
 ```
 Exercise 5: We revisit the dataset from previous exercise. We will 
