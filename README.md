@@ -2,6 +2,7 @@ Title: Introduction to R and RStudio
 Author: Marcin Adamski
 Affiliation: CBBU, RSB ANU
 Date: 18-11-2016
+
 ---
 # *** Introduction to R and RStudio ***
 
