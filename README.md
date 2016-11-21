@@ -39,16 +39,19 @@ Date: 18-11-2016
  - Presentation of RStudio IDE (Integrated Development Environment).
  - Help in R and RStudio.
  - Concept of an RStudio project.
+ 
 ## First steps:
  - "Hello World!" in R.
  - Using R as a calculator; math. operators and functions.
  - Text and logical operators.
  - Variables - operations with variables, creation and removal
+
 ## Vectors and vectorization:
  - Creating vectors.
  - Math. operations on vectors.
  - Type coercion.
  - Factors
+
 ## Other data structures, referring with dollar notation and indexes:
  - Vectors with named elements,
  - Matrices,
